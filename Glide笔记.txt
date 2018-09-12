@@ -1,0 +1,3 @@
+Glide.with   将当前显示的页面对象传入Glide
+SupportRequestManagerFragment  空的fragment  监听当前页面的生命周期
+ActivityFragmentLifecycle   观察者模式，fragment的生命周期交给了他
